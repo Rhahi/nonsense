@@ -1,0 +1,14 @@
+theme = "hyde"
+baseURL = 'https://nonsense.rhahi.com'
+languageCode = 'en-us'
+title = 'Nonsense!'
+
+# sidebar
+[Menus]
+  main = [
+    {Name = "Github", URL = "https://github.com/rhahi/nonsense" },
+  ]
+
+[params]
+  themeColor = "theme-base-09"
+  description = "Please leave your common sense at the door."
